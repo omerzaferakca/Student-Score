@@ -1,0 +1,2 @@
+# Student-Score
+Beginner project
